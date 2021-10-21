@@ -30,3 +30,11 @@ Only active players should be considered for team points calculation.
  * Adding a README file for repo is mandatory and README should have steps to run code.
  * Only Javascript code will checked in code review. We are not concern about HTML styling.
  * You have to submit assignment within 3 days after you receive email for assignment.
+
+
+## How to run it?
+run these on cmd in the folder where package.json is located:
+
+1. npm install
+
+2. node app.js
