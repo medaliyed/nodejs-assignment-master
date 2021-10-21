@@ -37,4 +37,8 @@ run these on cmd in the folder where package.json is located:
 
 1. npm install
 
+* to run the code
 2. node app.js
+
+* to run tests
+3. npm test
